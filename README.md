@@ -78,4 +78,4 @@ Alerting: If a deviation is detected, it logs to the console and pushes a payloa
 This tool is developed for educational and defensive purposes only. The developer is not responsible for any misuse of this software. Always obtain permission before monitoring systems you do not own.
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details.   
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.   
